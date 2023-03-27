@@ -6,6 +6,8 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/games_number.png?raw=true"/>
+<img src="images/last_point.png?raw=true"/>
+<img src="images/last_point_dist.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
