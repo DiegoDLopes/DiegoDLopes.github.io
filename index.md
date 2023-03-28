@@ -11,10 +11,10 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/initial.png?raw=true" width="250" height="200"/>
-<img src="images/final.png?raw=true" width="250" height="200"/>
-<img src="images/transition.png?raw=true" width="300" height="200"/>
-<img src="images/transition2.png?raw=true" width="300" height="200"/>
+<img src="images/initial.png?raw=true" width="200" height="200"/>
+<img src="images/final.png?raw=true" width="200" height="200"/>
+<img src="images/transition.png?raw=true" width="250" height="200"/>
+<img src="images/transition2.png?raw=true" width="250" height="200"/>
 
 ---
 [Project 3 Title](http://example.com/)
