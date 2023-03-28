@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Prijetos
 
 [Vantagem de jogar em casa em jogos de vôlei](/sample_page)
 <img src="images/games_number.png?raw=true"/>
@@ -22,9 +22,9 @@
 
 ---
 
-### Category Name 2
+### Link para GitHub
 
-- [Project 1 Title]([http://example.com/](https://github.com/DiegoDLopes/Extraindo-e-Analisando-Dados-de-V-lei))
+- [Vantagem de jogar em casa em jogos de vôlei](https://github.com/DiegoDLopes/Extraindo-e-Analisando-Dados-de-V-lei)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
