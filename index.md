@@ -4,14 +4,17 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Vantagem de jogar em casa em jogos de vôlei](/sample_page)
 <img src="images/games_number.png?raw=true"/>
 <img src="images/last_point.png?raw=true"/>
 <img src="images/last_point_dist.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/initial.png?raw=true"/>
+<img src="images/final.png?raw=true"/>
+<img src="images/transition.png?raw=true"/>
+<img src="images/transition2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -21,7 +24,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title]([http://example.com/](https://github.com/DiegoDLopes/Extraindo-e-Analisando-Dados-de-V-lei))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
