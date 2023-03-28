@@ -10,11 +10,11 @@
 <img src="images/last_point_dist.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Utilizando CNN para identificação de transição de fase em simulações de coexistência de expécies](/pdf/sample_presentation.pdf)
 <img src="images/initial.png?raw=true" width="200" height="200"/>
 <img src="images/final.png?raw=true" width="200" height="200"/>
-<img src="images/transition.png?raw=true" width="250" height="200"/>
-<img src="images/transition2.png?raw=true" width="250" height="200"/>
+<img src="images/transition.png?raw=true" width="200" height="200"/>
+<img src="images/transition2.png?raw=true" width="200" height="200"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -25,7 +25,7 @@
 ### Link para GitHub
 
 - [Vantagem de jogar em casa em jogos de vôlei](https://github.com/DiegoDLopes/Extraindo-e-Analisando-Dados-de-V-lei)
-- [Project 2 Title](http://example.com/)
+- [Utilizando CNN para identificação de transição de fase em simulações de coexistência de expécies](https://github.com/DiegoDLopes/RPS)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
