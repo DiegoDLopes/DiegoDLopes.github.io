@@ -11,8 +11,8 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/initial.png?raw=true" width="100" height="100"/>
-<img src="images/final.png?raw=true"/>
+<img src="images/initial.png?raw=true" width="200" height="200"/>
+<img src="images/final.png?raw=true" width="200" height="200"/>
 <img src="images/transition.png?raw=true"/>
 <img src="images/transition2.png?raw=true"/>
 
