@@ -2,7 +2,7 @@
 
 ---
 
-### Prijetos
+### Projetos
 
 [Vantagem de jogar em casa em jogos de vôlei](/sample_page)
 <img src="images/games_number.png?raw=true"/>
